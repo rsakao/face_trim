@@ -27,7 +27,9 @@ pip install Pillow face_recognition
 1. スクリプトをクローンまたはダウンロードします。
 1. images/inputディレクトリに処理したい画像ファイル（.jpgまたは.png）を配置します。
 1. スクリプトを実行します：
-1. ```python [main.py](http://_vscodecontentref_/0)```
+    ```
+    python main.py
+    ```
 1. トリミングされた画像はimages/outputディレクトリに保存されます。
 
 ## スクリプトの説明
