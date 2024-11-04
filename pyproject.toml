@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "face-trim"
+version = "0.1.0"
+description = ""
+authors = ["rsakao <reiji.sakao@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+dlib = "^19.24.6"
+setuptools = "^75.3.0"
+face-recognition = "^1.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
